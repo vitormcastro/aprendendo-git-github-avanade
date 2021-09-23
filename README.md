@@ -33,3 +33,8 @@ Para escrever um parágrafo com destaque, utilizamos o símbolo >.
 >Esse é um parágrafo destacado do resto do texto. Esse aqui também. e assim por diante.
 
 Os paragráfos acima estão destacados do restante do texto escrito.
+
+## Criação de hyperlinks
+
+A criação de hyperlinks é feita através dos símbolos [] para nome e () para o link. Onde o conteúdo dos colchetes é o texto que será exibido e o conteúdo do parênteses é o link a ser redirecionado.
+Ex: [Google](www.google.com)
