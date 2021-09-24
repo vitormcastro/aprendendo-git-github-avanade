@@ -34,6 +34,11 @@ Para escrever um parágrafo com destaque, utilizamos o símbolo >.
 
 Os paragráfos acima estão destacados do restante do texto escrito.
 
+## Criação de hyperlinks
+
+A criação de hyperlinks é feita através dos símbolos [] para nome e () para o link. Onde o conteúdo dos colchetes é o texto que será exibido e o conteúdo do parênteses é o link a ser redirecionado.
+Ex: [Google](www.google.com)
+
 ## Criando snippets de código
 
 Para criar snippets de código (partes de código) basta utilizar o símbolo de crase 3 vezes junto com a linguagem do snippet.
